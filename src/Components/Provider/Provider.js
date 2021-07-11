@@ -17,54 +17,60 @@ const MainProvider = ({children})=>{
             Name:"Leh Ladakh",
             Location:"Ladakh",
             image:img1,
-            Description:`Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima iure voluptas,
-             nisi temporibus velit sunt magni corrupti accusantium quis! Aspernatur ad, nemo deserunt 
-             incidunt cum ipsa porro aliquam dolorem.`,
+            Description:`Set amidst the epic Himalayas, 
+            Ladakh is a rustic and heavenly beautiful travel destination. 
+            The rugged valleys and mountains, winding roads coupled with the vibrant\
+            cultural life maintain the exuberance and charm of this region`,
         },
         {
             id:1,
             Name:"The Rohtang",
             Location:"Himachal Pradesh",
             image:img2,
-            Description:`Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima iure voluptas,
-            nisi temporibus velit sunt magni corrupti accusantium quis! Aspernatur ad, nemo deserunt 
-            incidunt cum ipsa porro aliquam dolorem.`,
+            Description:`At an elevation of 13,054 ft, Rohtang Pass serves
+             as the gateway to Lahaul and Spiti valleys in Himachal Pradesh.
+              About 53 km from Manali, it connects Kullu valley with Lahaul 
+              and Spiti which in turn provide access to Leh. `,
         },
         {
             id:2,
             Name:"Neil Islands",
             Location:"Andaman Nicobar",
             image:img3,
-            Description:`Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima iure voluptas,
-            nisi temporibus velit sunt magni corrupti accusantium quis! Aspernatur ad, nemo deserunt 
-            incidunt cum ipsa porro aliquam dolorem.`,
+            Description:`Neil Island is a tiny and beautiful gem, 
+            located 37 km south of the Andaman and Nicobar archipelago.
+             With unexplored coral reefs, magnificent bio-diversity,
+              deserted sandy beaches and tropical forests and vegetation,`,
         },
         {
             id:3,
             Name:"Taj Mahal",
             Location:"Agra",
             image:img4,
-            Description:`Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima iure voluptas,
-            nisi temporibus velit sunt magni corrupti accusantium quis! Aspernatur ad, nemo deserunt 
-            incidunt cum ipsa porro aliquam dolorem.`,
+            Description:`The Taj Mahal is a mosque like building and 
+            tomb built in the 17th century by the Mughal emperor,
+             Shah Jahan in memory of his wife, Mumtaz Mahal. 
+             The building is in the city of Agra, Uttar Pradesh.`,
         },
         {
             id:4,
             Name:"Lotus Temple",
             Location:"delhi",
             image:img5,
-            Description:`Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima iure voluptas,
-            nisi temporibus velit sunt magni corrupti accusantium quis! Aspernatur ad, nemo deserunt 
-            incidunt cum ipsa porro aliquam dolorem.`,
+            Description:`The Lotus Temple, located in Delhi, India,
+             is a Baháʼí House of Worship that was dedicated in December 
+             1986. Notable for its flowerlike shape, it has become a 
+             prominent attraction in the city.`,
         },
         {
             id:5,
             Name:"Tirupati Tirumala",
             Location:"Kerala",
             image:img6,
-            Description:`Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minima iure voluptas,
-            nisi temporibus velit sunt magni corrupti accusantium quis! Aspernatur ad, nemo deserunt 
-            incidunt cum ipsa porro aliquam dolorem.`,
+            Description:`Tirupati is known as the abode of the Hindu 
+            god Venkateshvara, Lord of Seven Hills. The sacred hill 
+            of Tirumala is situated about 6 miles (10 km) northwest 
+            of Tirupati in Sri Venkateshwara Sanctuary and National Park.`,
         }
     ]
 
